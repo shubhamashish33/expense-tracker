@@ -1,5 +1,4 @@
 {
-  "homepage": "http://shubhamashish33.github.io/expense-tracker",
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +13,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
