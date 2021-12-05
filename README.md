@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Track Your Expenses 💰
+This website let your manage your expense and also helps to export in the pdf form to share with others.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://track-expensee.herokuapp.com/)
+
+# Screenshot
 
 ## Available Scripts
 
