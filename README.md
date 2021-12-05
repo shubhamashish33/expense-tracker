@@ -1,10 +1,25 @@
 # Track Your Expenses 💰
-This website let your manage your expense and also helps to export in the pdf form to share with others.
+This website let your manage your expense and also helps to export in the pdf form to share with others. It also has a search feature to filter out your expense with it's name.
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://track-expensee.herokuapp.com/)
 
 # Screenshot
+![chrome_iDmmz2v4Tg](https://user-images.githubusercontent.com/78084828/144751672-f0d63515-41ac-47d6-b25f-9f8c692a2e47.png)
+
+# Demo
+
+
+https://user-images.githubusercontent.com/78084828/144751832-a61163eb-a417-4ca9-b3d5-d85e99bac6f4.mp4
+
+
+
+# Development Tools 👨🏻‍💻
+1. HTML
+2. CSS
+3. Javascript
+4. React JS Framework
+5. Heroku
 
 ## Available Scripts
 
@@ -49,26 +64,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Follow Me ✨
+![20210928_153251](https://user-images.githubusercontent.com/78084828/135317183-c83acb93-1c68-4def-8f1e-b3d1dedfc9a7.jpg) \
+**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
