@@ -24,6 +24,7 @@ const Container = styled.div`
   
 `;
 
+
 const Cell = styled.div`
   background-color: white;
   color: #0d1d2c;
@@ -70,6 +71,7 @@ const TransactionComponents = (props) => {
     filterData(searchText);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [props.transactions]);
+
 
   return (
     <Container>

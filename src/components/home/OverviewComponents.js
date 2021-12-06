@@ -173,7 +173,7 @@ const OverviewComponents = (props) => {
           Income <span>₹{props.income}</span>
         </ExpenseBox>
       </ExpenseContainer>
-      <AddTransaction onClick={printpdf}>Export</AddTransaction>
+      <AddTransaction onClick={printpdf}>Export as PDF</AddTransaction>
     </Container>
   );
 };
