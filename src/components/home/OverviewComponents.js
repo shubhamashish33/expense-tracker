@@ -8,6 +8,10 @@ const Container = styled.div`
   align-items: center;
   margin: 10px;
   width: 100%;
+  @media screen and (max-width: 478px) {
+    margin: 0px;
+    align-items: center;
+  }
 `;
 const ExpenseContainer = styled.div`
   width: 100%;
@@ -16,6 +20,10 @@ const ExpenseContainer = styled.div`
   flex-direction: row;
   gap: 12px;
   margin: 20px;
+  @media screen and (max-width: 478px) {
+    width: 90%;
+    align-items: center;
+  }
 `;
 const ExpenseBox = styled.div`
   border-radius: 4px;
@@ -32,23 +40,30 @@ const ExpenseBox = styled.div`
     font-size: 20px;
   }
   @media screen and (max-width: 478px) {
-    margin: auto;
-    max-width: 80%;
-    margin-left: 10px;
   }
 `;
 const Box = styled.div`
-  font-size: 18px;
+  background: #171717;
+  color: white;
+  padding: 20px 15px;
+  border-radius: 10px;
+  font-size: 20px;
   width: 100%;
   font-weight: bold;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  @media screen and (max-width: 478px) {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 80%;
+  }
 `;
 
 const AddTransaction = styled.div`
-  background: #a195fb;
+  background-color: #8bc6ec;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
   color: white;
   text-align: center;
   padding: 15px 20px;
@@ -57,9 +72,13 @@ const AddTransaction = styled.div`
   font-weight: bold;
   font-size: 15px;
   cursor: pointer;
+  @media print{
+    display: none !important;
+  }
 `;
 const AddTransactionContainer = styled.div`
   display: flex;
+  border-radius: 10px;
   flex-direction: column;
   border: 1px solid #e6e8e9;
   gap: 10px;

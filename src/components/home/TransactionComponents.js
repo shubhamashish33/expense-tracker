@@ -17,11 +17,13 @@ const Container = styled.div`
     outline: none;
     width: 100%;
     @media screen and (max-width: 478px) {
-      max-width: 90%;
-      margin: auto;
+      width: 90%;
     }
   }
-  
+  @media screen and (max-width: 478px) {
+    margin: 10px 0px;
+    width: 80%;
+  }
 `;
 
 

@@ -1,21 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-footer{
-  position: fixed;
+a{
+  color: black;
+  text-decoration: none;
+}
+footer {
+  color: rgba(0, 0, 0, 0.308);
   bottom: 10px;
   left: 0;
   width: 100%;
   text-align: center;
 }
 
+@media screen and (max-width: 478px) {
+  body {
+    margin: auto;
+    width: 90%;
+  }
+}
+
+@media print{
+  footer{
+    display: none !important; 
+  }
+}

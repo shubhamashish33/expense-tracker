@@ -8,10 +8,7 @@ const Container = styled.div`
   margin-top: 30px;
   margin-bottom: 10px;
   @media screen and (max-width: 478px) {
-    margin: auto;
     align-items: center;
-    max-width: 80%;
-    margin-left: 50px;
   }
 `;
 
@@ -20,7 +17,7 @@ const Header = styled.span`
   font-size: 25px;
   font-weight: bold;
   @media screen and (max-width: 478px) {
-    margin-top: 50px;
+    margin: 20px 0px;
   }
 `;
 function App() {
