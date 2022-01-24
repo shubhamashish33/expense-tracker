@@ -1,5 +1,5 @@
 # Track Your Expenses 💰
-A website which let you track your expense and also to export them into pdf to share with others. It also has a search feature to filter out your expense with it's name. The website is made entirely with the javascript framework called **'React'**. The website is full functional and there is no backend attached.
+A website that let you track your expense and also to export them into pdf to share with others. It also has a search feature to filter out your expense with its name. The website is made entirely with the **javascript** framework called **'React'**. The website is fully functional and there is no backend attached.
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://track-expensee.herokuapp.com/)
