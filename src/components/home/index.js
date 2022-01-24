@@ -6,7 +6,7 @@ import TransactionComponents from "./TransactionComponents";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Outfit", sans-serif;
   align-items: center;
   margin-top: 30px;
   margin-bottom: 10px;

@@ -3,7 +3,7 @@ import Homecomponent from "./components/home";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Outfit", sans-serif;
   align-items: center;
   margin-top: 30px;
   margin-bottom: 10px;
@@ -23,7 +23,7 @@ const Header = styled.span`
 function App() {
   return (
     <Container>
-      <Header>Track Your Expenses</Header>
+      <Header>Track Your Expenses 💰</Header>
       <Homecomponent/>
     </Container>
   );

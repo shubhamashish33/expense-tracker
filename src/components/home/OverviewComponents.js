@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Outfit", sans-serif;
   align-items: center;
   margin: 10px;
   width: 100%;
@@ -43,8 +43,8 @@ const ExpenseBox = styled.div`
   }
 `;
 const Box = styled.div`
-  background: #171717;
-  color: white;
+  background: #fdbb9b;
+  color: #333;
   padding: 20px 15px;
   border-radius: 10px;
   font-size: 20px;
